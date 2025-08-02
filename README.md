@@ -42,7 +42,5 @@ My focus was to ensure the platform delivered a seamless, secure, and high-perfo
 - Checked access control and input sanitization
 - Ensured no exposure of sensitive user data
 
----
 
-## 📁 Project Folder Structure
 
